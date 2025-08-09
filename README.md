@@ -4,7 +4,7 @@ This project is a lightweight simulation of an **Advanced Driver Assistance Syst
 It processes a driving video frame-by-frame, performing:
 
 - **Lane detection** to keep the vehicle centered
-- **Object detection** to identify cars, pedestrians, and obstacles
+- **Object detection** to identify vehicles, pedestrians, and obstacles
 - **Distance estimation** to predict potential collisions
 - **Bird’s-eye view transformation** for better visualization
 - **Provide real-time driving metrics and status** for safe driving
