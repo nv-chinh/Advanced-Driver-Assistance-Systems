@@ -9,7 +9,14 @@ It processes a driving video frame-by-frame, performing:
 - **Bird’s-eye view transformation** for better visualization
 - **Provide real-time driving metrics and status** for safe driving
 
-**Note**: This mini ADAS is based on the GitHub repository: [Vehicle-CV-ADAS](https://github.com/jason-li-831202/Vehicle-CV-ADAS)
+## 🎥 Demo
+<p align="center">
+  <img src="Examples/short_test_video_result.gif" alt="ADAS Demo" width="480"/>
+</p>
+
+👉 **Watch the full output video here:** [Examples/test_video_result.mp4](Examples/test_video_result.mp4)
+
+**Note**: This project is based on the GitHub repository: [Vehicle-CV-ADAS](https://github.com/jason-li-831202/Vehicle-CV-ADAS)
 
 ---
 
